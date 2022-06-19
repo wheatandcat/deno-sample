@@ -115,8 +115,6 @@ li {
 }
 </style>
 ---
-clicks: 2
----
 
 # Denoの特徴
 
